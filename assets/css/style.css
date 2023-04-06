@@ -1,0 +1,33 @@
+.deshboard {
+   text-align: center;
+   background: #FFF;
+   width: 50%;
+   margin: auto;
+   padding: 18px 20px 30px 30px;
+   margin-top: 50px;
+   box-shadow: 0 1px 3px rgb(0 0 0 / 13%);
+}
+
+.deshboard input[type="submit"] {
+   border: none;
+   padding: 8px 30px;
+   font-size: 16px;
+   font-weight: 500;
+   margin-top: 40px;
+   cursor: pointer;
+   background-color: #a16696;
+   color: #FFF;
+   border-radius: 1px;
+}
+
+.deshboard p {
+   font-size: 16px;
+   font-weight: 400;
+}
+
+.deshboard p.wc-slug {
+   font-size: 14px;
+   font-weight: 400;
+   border-bottom: 1px solid #eee;
+   padding-bottom: 20px;
+}
